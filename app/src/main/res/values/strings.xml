@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Internationalization</string>
+    <string name="str_olamundo">Hello World!</string>
+    <string name="str_button1">Button</string>
+    <string name="btn2">Lit Button</string>
+    <string name="btncalcular">Calculate</string>
+</resources>

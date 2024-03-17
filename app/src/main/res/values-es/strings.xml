@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Internacionalización</string>
+    <string name="str_olamundo">¡Hola Mundo!</string>
+    <string name="str_button1">Botón</string>
+    <string name="btn2">Botón peq</string>
+    <string name="btncalcular">Cálculo</string>
+</resources>
